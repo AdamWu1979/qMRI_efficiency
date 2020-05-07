@@ -1,6 +1,6 @@
 # qMRI efficiency
 
-This repo contains the code necessary to reproduce the results published in the paper "An intrinsic efficiency measure for quantitative MRI applicable to transient and steady-state sequences", submitted to MRM (link will be made available to a pre-print).  
+This repo contains the code necessary to reproduce the results published in the paper "An intrinsic efficiency measure for quantitative MRI applicable to transient and steady-state sequences", submitted to MRM and made available as a [pre-print on arXiv](https://arxiv.org/abs/2005.02876).  
 The code is divided in several sub-folders, which contain the relevant scripts/functions for each topic. Separately, several auxiliary functions are given in the `/library` sub-folder. Please add this to your Matlab path. Moreover, .mat files are provided as a release. 
 This code is distributed under the MIT licence. If you find it useful please cite the publication once available.
 
